@@ -1,2 +1,6 @@
-# BotToby
-git clone https://github.com/T0byG74/BotToby
+# SelfPuy
+git clone https://github.com/mkhadaffy/Selfpuy
+
+Pergunakan dengan baik!
+
+Follow me on instagram instagram.com/mkhadaffy18
