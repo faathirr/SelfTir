@@ -1,6 +1,6 @@
 # SelfPuy
-git clone https://github.com/mkhadaffy/Selfpuy
+git clone https://github.com/faathirr/SelfTir
 
 Pergunakan dengan baik!
 
-Follow me on instagram instagram.com/mkhadaffy18
+Ask me on instagram instagram.com/diplintir
